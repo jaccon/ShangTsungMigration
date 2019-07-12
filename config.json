@@ -1,0 +1,9 @@
+{
+    "disableSSLCheck": "Y",
+    "sourceServer": "imap.uhserver.com", 
+    "sourceUser": "francisco@tostoedonda.adv.br", 
+    "sourcePassword": "230902es", 
+    "destinationHost": "gator3009.hostgator.com", 
+    "destinationUser": "francisco@tostoedonda.adv.br", 
+    "destinationPassword": "@12345678"
+}
